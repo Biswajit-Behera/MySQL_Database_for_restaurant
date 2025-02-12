@@ -1,4 +1,4 @@
-# MySQL_Database_Project_for_Restaurant
+# MySQL_Database_Project_for_Restaurant_Booking
 
 MySQL Database Project :-
 
