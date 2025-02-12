@@ -1,6 +1,6 @@
 # MySQL_Database_Project_for_Restaurant_Booking
 
-MySQL Database Project :-
+## MySQL Database Project :-
 
 Scenario :
 
