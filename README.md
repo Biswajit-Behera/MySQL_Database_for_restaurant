@@ -8,10 +8,10 @@ Based in Chicago, Illinois, Little Lemon is a family-owned Mediterranean restaur
 
 Little Lemon is owned by two Italian brothers, Mario and Adrian, who moved to the United States to pursue their shared dream of owning a restaurant. To craft the menu, Mario relies on family recipes and his experience as a chef in Italy. Adrian does all the marketing for the restaurant and led the effort to expand the menu beyond classic Italian to incorporate additional cuisines from the Mediterranean region.
 
-Entity Relational(E-R) Model:-
+## Entity Relational(E-R) Model:-
 ![image](https://github.com/user-attachments/assets/4ee93661-52f0-415e-93da-1213dab2fbbb)
 
-Prerequisites :
+## Prerequisites :
 
 You must first create the Little Lemon database in MySQL. You must also have the Customers, Bookings and Courses tables created and populated with relevant data as shown below.
 
